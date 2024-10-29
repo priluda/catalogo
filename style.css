@@ -1,8 +1,11 @@
 body{
-    background-color: black;
+    background-color:black;
     color: white;
     }
-    
+    header{
+        font-family:: "Chakra Petch", sans-serif;
+        font-size: 40px;
+    }
     section{
     background-color: rgb(184, 156, 213);
     padding-bottom: 5%;
@@ -10,5 +13,11 @@ body{
     display: flex;
     justify-content: center;
     
+    }
+    .texto{
+        margin-right: 5%;
+        
+
+
     }
     
